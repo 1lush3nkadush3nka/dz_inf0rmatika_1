@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Мой сайт</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <header>
+      <h1>Привет! Это мой сайт<3</h1>
+      <nav>
+        <a href="#about">Обо мне</a> |
+        <a href="#projects">Проекты</a> |
+        <a href="#contact">Контакты</a>
+      </nav>
+    </header>
+
+    <section id="about">
+      <h2>Обо мне</h2>
+      <p>Я учусь в школе, люблю Minecraft, и спать.</p>
+    </section>
+
+    <section id="projects">
+      <h2>Мои проекты</h2>
+      <ul>
+        <li>Скоро будут</li>
+      </ul>
+    </section>
+
+    <section id="contact">
+      <h2>Контакты</h2>
+      <p>Telegram: @whoi1ush3nka_dush3nka</p>
+      <p>Почта: chyatopochta@gmail.com</p>
+    </section>
+
+    <footer>
+      <p>&copy; 2026 Мой сайт</p>
+    </footer>
+  </body>
+</html>
